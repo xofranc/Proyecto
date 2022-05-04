@@ -94,7 +94,7 @@ class DetectorHands():
     #               Funcion Principal
     def main():
         ptiempo = 0
-        ctiempo = o
+        ctiempo = 0
 
 
         #           leemos la camara webs
